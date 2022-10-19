@@ -1,0 +1,649 @@
+# Copyright (C) 2022 by ProductiveMinds Publishing & Learning
+# This file is distributed under the GNU General Public License v2 or later
+msgid ""
+msgstr ""
+"Project-Id-Version: productive-ecommerce 1.0.0.20\n"
+"Report-Msgid-Bugs-To: https://www.productiveminds.com\n"
+"Last-Translator: \n"
+"Language-Team: productiveminds.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-13 00:00+0000\n"
+"PO-Revision-Date: 2022-03-13 00:02+0000\n"
+"X-Generator: Poedit 3.0.1\n"
+
+
+# FUNCTIONS
+#: wp-content/themes/productive-ecommerce/functions.php:45
+msgid "Skip to content"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:57
+msgid "Homepage Content (above Blog)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:68
+msgid "Homepage Content (below Blog)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:79
+msgid "Left Sidebar"
+msgstr ""
+
+#: wp-content/themes/productive-ecommerce/functions.php:90
+msgid "Right Sidebar"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:101
+msgid "Footer (Left)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:112
+msgid "Footer (Right)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:140
+msgid "Footer Menu"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:639
+msgid "Newer"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:643
+msgid "Older"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/functions.php:646
+msgid "Page Content navigation "
+msgstr ""
+
+
+# HEADER
+#: wp-content/themes/productive-ecommerce/header.php:77
+#: wp-content/themes/productive-ecommerce/header.php:124
+msgid "Logout"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/header.php:81
+#: wp-content/themes/productive-ecommerce/header.php:128
+msgid "Login"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/header.php:87
+#: wp-content/themes/productive-ecommerce/header.php:135
+msgid "Shopping Basket"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/header.php:98
+msgid "Menu"
+msgstr ""
+
+
+# 404
+#: wp-content/themes/productive-ecommerce/404.php:26
+#: wp-content/themes/productive-ecommerce/header.php:114
+#: wp-content/themes/productive-ecommerce/searchform.php:13
+msgid "Search..."
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/404.php:16
+msgid "Page Not Found"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/404.php:18
+msgid "We did not find the page you were looking for."
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/404.php:20
+msgid "Homepage"
+msgstr ""
+
+
+# NO RESULT
+#: wp-content/themes/productive-ecommerce/template-parts/page-part-none.php:9
+msgid "Nothing to display"
+msgstr ""
+
+
+# COMMENTS
+#: wp-content/themes/productive-ecommerce/comments.php:24
+msgid "Leave a comment"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/comments.php:26
+msgid "Comments on "
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/comments.php:84
+msgid "Comments are closed"
+msgstr ""
+
+
+# SEARCH
+#: wp-content/themes/productive-ecommerce/search.php:55
+msgid "Search result for: "
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/search.php:64
+msgid " matches found for your search..."
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/search.php:66
+msgid " match found for your search..."
+msgstr ""
+
+
+# FUNCTIONS-FOR-CUSTOMISERS
+
+# CUSTOMISERS-COMMON
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-common.php:30
+msgid "Customisable Options for "
+msgstr ""
+
+
+# CUSTOMISERS-HEADER
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-header.php:34
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-header.php:35
+msgid "Header Options"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-header.php:62
+msgid "Show Header Search?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-header.php:63
+msgid "Display search box in the header"
+msgstr ""
+
+
+# CUSTOMISERS-HOMEPAGE-BANNER
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:34
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:35
+msgid "Homepage Banner Options"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:62
+msgid "Banner Background Image"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:63
+msgid "The main background image in the homepage"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:87
+msgid "Scroll Banner Background?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:88
+msgid "Image scrolls (if disabled, banner uses parallax effect)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:113
+msgid "Banner text 1 (Main USP)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:114
+msgid "Leave empty to disable"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:137
+msgid "Banner text 1 Color"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:139
+msgid "Banner text 2 (smaller USP copy)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:140
+msgid "Leave empty to disable"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:163
+msgid "CTA 1 Copy"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:186
+msgid "Banner text 2 Color"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:187
+msgid "CTA 1 Url"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:188
+msgid "Full Url starting with \'http\' (leave empty to disable)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:212
+msgid "CTA 2 Copy"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-banner.php:236
+msgid "CTA 2 Url"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-cta.php:109
+msgid "CTA 1 Text Color"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-cta.php:133
+msgid "CTA 1 Background Color"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-cta.php:206
+msgid "CTA 2 Text & Border Color"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-homepage-cta.php:231
+msgid "CTA 2 Background Color"
+msgstr ""
+
+
+# CUSTOMISERS-BLOG
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:34
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:35
+msgid "Blog Options"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:61
+msgid "Show Homepage Latest Blog Posts?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:62
+msgid "Display Latest Blog post (summaries) on Homepage"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:86
+msgid "Homepage Latest Blog Heading"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:87
+msgid "Homepage blog section heading"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:112
+msgid "Blog Post Placeholder Thumbnail"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:113
+msgid "An image that shows as thumbnail if a blog post does not have one"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:140
+msgid "Number of Blog Posts Per Row"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:141
+msgid "Use 3 or more for best result (Note, if WooCommerce is installed, Products per row setting from WooCommerce is used instead)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-blog.php:165
+msgid "Colour for Blog Category Title"
+msgstr ""
+
+
+# CUSTOMISERS-COMMERCE
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-commerce.php:29
+msgid "Customise "
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-commerce.php:34
+msgid "eCommerce Options"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-commerce.php:35
+msgid "WooCommerce Related Options"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-commerce.php:61
+msgid "Show Header Cart?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-commerce.php:62
+msgid "Display Cart icon in the header"
+msgstr ""
+
+
+# CUSTOMISERS-LAYOUT
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:34
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:35
+msgid "Layout Options"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:65
+msgid "One Column"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:66
+msgid "Two Column Left Sidebar"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:67
+msgid "Two Column Right Sidebar"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:68
+msgid "Three columns"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:93
+msgid "Small Screen Left Sidebar Header"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-layout.php:94
+msgid "Text to display on small screens left sidebar header"
+msgstr ""
+
+
+# CUSTOMISERS-FOOTER
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:28
+msgid "Footer Options "
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:29
+msgid " (Copyright management is Pro only feature)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:54
+#: wp-content/themes/productive-ecommerce/includes/functions-customiser.php:468
+msgid "A WordPress theme by "
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:71
+msgid "Footer copyright"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:72
+msgid "You need the Pro version"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:72
+msgid " to remove or change the Footer copyright"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:84
+msgid "Footer copyright content"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:85
+msgid "Leave blank for no copyright info"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:93
+msgid "Get more features with PRO"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:96
+msgid "Compare Pro and Free Features"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/includes/customiser/productive-theme-customiser-footer.php:99
+msgid "See a Live Demo"
+msgstr ""
+
+
+# FUNCTIONS-FOR-CUSTOMISERS
+#: wp-content/themes/productive-ecommerce/includes/functions-customiser.php:365
+msgid "Info"
+msgstr ""
+
+
+
+
+# start EXTRAS
+
+# FUNCTIONS-EXTRAS
+#: wp-content/themes/productive-ecommerce/extra/functions-extra.php:19
+msgid "Homepage Hero (replaces Banner)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/functions-extra.php:30
+msgid "Top Callout and Announcement"
+msgstr ""
+
+
+# WOOCOMMERCE
+#: wp-content/themes/productive-ecommerce/extra/woocommerce-extra.php:24
+msgid "in"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/woocommerce-extra.php:29
+msgid "Categories "
+msgstr ""
+
+
+# CUSTOMISERS-EXTRAS
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:49
+msgid "Show Header Account?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:50
+msgid "Show login/logout icon in the header"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:76
+msgid "Choose Header Style"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:79
+msgid "Style 1"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:80
+msgid "Style 2"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:110
+msgid "Show Website Name in Footer?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:111
+msgid "Display the name of your website in the footer?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:136
+msgid "Show Footer Copyright?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:137
+msgid "Display the copyright section (below footer)?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:163
+msgid "Choose Footer Style"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:166
+msgid "Style 1"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:167
+msgid "Style 2"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:196
+msgid "Show Header Wishlist?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:197
+msgid "Display Wishlist icon in the header"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:221
+msgid "Show Header Compare?"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:222
+msgid "Display product compare icon in the header"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:246
+msgid "Show Currency Switcher"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:247
+msgid "Display currency switcher in header"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:271
+msgid "Show Language Switcher"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:272
+msgid "Display language switcher in header"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:296
+msgid "Show Breadcrumb"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:297
+msgid "Display breadcrumb across your website'"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:321
+msgid "Use Custom Product Page Design"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:322
+msgid "Use custom design (of the theme) on product details page"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:346
+msgid "Show Subcategories"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:347
+msgid "Show subcategories on archive pages (This overrides WooCommerce setting)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:372
+msgid "Subcategories Per Row"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:373
+msgid "The number of subcategories to display (per row) on archive pages (max 7)"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:403
+msgid "Large Latest Blog Section Heading"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:404
+msgid "Use Large Heading for Latest Blog Section"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:430
+msgid "Blog Categories Banner Image"
+msgstr ""
+
+
+#: wp-content/themes/productive-ecommerce/extra/productive-theme-customiser-extra.php:431
+msgid "Top banner image for Blog Categories (Archives)"
+msgstr ""
+
+# end EXTRAS
+
